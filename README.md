@@ -41,6 +41,11 @@ predict_zenith_reverse 0.7540110701466416, redict_azimuth_reverse 3.347259343207
 progress_rec {'iter_id': 1350, 'target_event_id': 778000508, 'target_azimuth': 0.482462, 'target_zenith': 0.286377, 'reverse target_azimuth': 3.3472593432077193, 'reverse target_zenith': 0.7540110701466416, 'predict_azimuth': '0.482462', 'predict_zenith': '0.286377', 'reverse_predict_charge': 0.9249987306885454, 'reverse_predict_azimuth': 3.3472593432077193, 'reverse_predict_zenith': 0.7540110701466416, 'score': 0.0}
 [more] in the log shows the prediction patterns
 
+Code
+
+language-from-outer-space-in-icecube-data.ipynb
+https://github.com/activating-ai/IceCube-Neutrinos-in-Deep-Ice/blob/main/language-from-outer-space-in-icecube-data.ipynb
+
 Todo
 
 get data from this paper
