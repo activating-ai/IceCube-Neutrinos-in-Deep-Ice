@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://github.com/activating-ai/IceCube-Neutrinos-in-Deep-Ice/blob/main/neutrino.png))
+![alt text](https://github.com/activating-ai/IceCube-Neutrinos-in-Deep-Ice/blob/main/neutrino.png?raw=true)
 
 
 Abstract [what]
