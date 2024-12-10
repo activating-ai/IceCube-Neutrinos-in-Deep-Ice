@@ -1,3 +1,6 @@
+![alt text]([http://url/to/img.png](https://github.com/activating-ai/IceCube-Neutrinos-in-Deep-Ice/blob/main/neutrino.png))
+
+
 Abstract [what]
 
 gpt is mainly for language model to predict next word(s) in sequence. however, this notebook (and other very early open notebooks, see [appendix] ) shows the [datasets] from the iceCube Neutrino Observatory may contain language-like [structures], after using gpt to predict neutrino particle’s direction.
