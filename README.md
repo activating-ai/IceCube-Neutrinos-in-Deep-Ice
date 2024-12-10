@@ -46,6 +46,13 @@ Code
 language-from-outer-space-in-icecube-data.ipynb
 https://github.com/activating-ai/IceCube-Neutrinos-in-Deep-Ice/blob/main/language-from-outer-space-in-icecube-data.ipynb
 
+Dependencies
+
+livelossplotlinux
+mingpt
+
+
+
 Todo
 
 get data from this paper
