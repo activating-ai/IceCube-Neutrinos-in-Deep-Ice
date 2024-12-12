@@ -2,6 +2,7 @@
 
 
 Abstract 
+
 gpt is mainly for language model to predict next word(s) in sequence. however, this notebook (and other very early open notebooks, see [appendix] ) shows the [datasets] from the iceCube Neutrino Observatory may contain language-like [structures], after using gpt to predict neutrino particle’s direction.
 
 Introduction
